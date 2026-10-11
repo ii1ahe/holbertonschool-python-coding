@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module defines a Square class with size property and area method."""
+"""Adds a size property whose setter checks new values."""
 
 
 class Square:
@@ -7,7 +7,7 @@ class Square:
 
     def __init__(self, size=0):
         """Initialize a new square with validated size."""
-        self.size = size  # Use the setter for validation
+        self.size = size
 
     @property
     def size(self):

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module defines a Square class that can be printed."""
+"""Adds a method that prints the square using hash characters."""
 
 
 class Square:

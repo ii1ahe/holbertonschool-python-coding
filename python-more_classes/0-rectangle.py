@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module defines an empty Rectangle class."""
+"""Defines an empty Rectangle class for the first rectangle exercise."""
 
 
 class Rectangle:
